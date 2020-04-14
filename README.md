@@ -1,4 +1,5 @@
 ## 100 numpy exercises
+list some changes
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
 
